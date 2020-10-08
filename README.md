@@ -5,7 +5,7 @@ The project is made using JavaScript and also uses local storage to store the it
 This to-do app can be used to create tasks you want to complete without keeping the app open as it uses local storage to traack the session.
 
 ## Screenshot
-![Screenshot](screenshot.png)
+(screenshot.png)
 
 ## live demo
 https://drockoda.github.io/To-do-app/
